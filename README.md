@@ -1,5 +1,6 @@
 # server with libevent
 一、
+
 workermanager---|-----worker------|handlethread
             ----|                 |handlethread
             ----|                 |handlethread
