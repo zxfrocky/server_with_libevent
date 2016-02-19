@@ -1,4 +1,5 @@
 # server with libevent
+#author 445297005@qq.com
 一 线程运行图如下
             
 workermanager----|-----worker------|handlethread(负责libevent事件循环 读，写，通知，getsocket)
