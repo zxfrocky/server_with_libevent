@@ -1,3 +1,6 @@
+/**
+	author 445297005@qq.com
+*/
 #ifndef __COMMON_H__
 #define __COMMON_H__
 

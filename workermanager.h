@@ -1,3 +1,6 @@
+/**
+	author 445297005@qq.com
+*/
 #ifndef __workermanager_h__
 #define __workermanager_h__
 #include <vector>

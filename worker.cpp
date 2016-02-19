@@ -1,3 +1,6 @@
+/**
+	author 445297005@qq.com
+*/
 #include "worker.h"
 #include "session.h"
 #include <pthread.h>

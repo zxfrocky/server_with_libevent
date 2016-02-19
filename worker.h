@@ -1,3 +1,6 @@
+﻿/**
+	author 445297005@qq.com
+*/
 #ifndef __WORKER_H__
 #define __WORKER_H__
 #include "stdio.h"

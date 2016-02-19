@@ -1,3 +1,6 @@
+/**
+	author 445297005@qq.com
+*/
 #include <errno.h>
 #include "session.h"
 #include "common.h"

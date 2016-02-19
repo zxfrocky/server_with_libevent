@@ -1,3 +1,6 @@
+/**
+	author 445297005@qq.com
+*/
 #include "workermanager.h"
 
 int main()

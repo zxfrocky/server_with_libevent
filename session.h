@@ -1,3 +1,6 @@
+/**
+	author 445297005@qq.com
+*/
 #ifndef __SESSION_H__
 #define __SESSION_H__
 #include <event.h>
