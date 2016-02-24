@@ -258,7 +258,7 @@ int CSession::Send(int s, const void *msg, size_t len, int flags)
 			else
 			{
 				/* error */
-				printf( "SKEpollIO: socket %i, errno %i, len %i, iWrite %i", s, iErrno, len, iWrite ) ;
+				printf( " socket %i, errno %i, len %i, iWrite %i", s, iErrno, len, iWrite ) ;
 				return -1;
 			}
 		}
